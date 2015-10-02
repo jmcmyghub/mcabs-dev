@@ -52,21 +52,21 @@
                 <div class="panel">
                     <h5>INDUSTRIES</h5>
                     <ul class="side-nav">
-                    <li><a href="#">- Aviation</a></li>
-                    <li><a href="#">- Banking &amp; Finance</a></li>
-                    <li><a href="#">- BPO &amp; Shared Services</a></li>
-                    <li><a href="#">- Education and Training</a></li>
-                    <li><a href="#">- Engineering &amp; Construction</a></li>
-                    <li><a href="#">- Food Retail</a></li>
-                    <li><a href="#">- Hotel &amp; Restaurant Management</a></li>
-                    <li><a href="#">- Information &amp; Technology</a></li>
-                    <li><a href="#">- Logistics &amp; Freight</a></li>
-                    <li><a href="#">- Maintenance &amp; Janitorial Services</a></li>
-                    <li><a href="#">- Manufacturing</a></li>
-                    <li><a href="#">- Oil &amp; Gas</a></li>
-                    <li><a href="#">- Sales &amp; Marketing</a></li>
-                    <li><a href="#">- Security Services</a></li>
-                    <li><a href="#">- And other Office &amp; Management Support.</a></li>
+                    <li><a href="">- Aviation</a></li>
+                    <li><a href="">- Banking &amp; Finance</a></li>
+                    <li><a href="">- BPO &amp; Shared Services</a></li>
+                    <li><a href="">- Education and Training</a></li>
+                    <li><a href="">- Engineering &amp; Construction</a></li>
+                    <li><a href="">- Food Retail</a></li>
+                    <li><a href="">- Hotel &amp; Restaurant Management</a></li>
+                    <li><a href="">- Information &amp; Technology</a></li>
+                    <li><a href="">- Logistics &amp; Freight</a></li>
+                    <li><a href="">- Maintenance &amp; Janitorial Services</a></li>
+                    <li><a href="">- Manufacturing</a></li>
+                    <li><a href="">- Oil &amp; Gas</a></li>
+                    <li><a href="">- Sales &amp; Marketing</a></li>
+                    <li><a href="">- Security Services</a></li>
+                    <li><a href="">- And other Office &amp; Management Support.</a></li>
                     </ul>
                 </div>
                 <div class="panel">

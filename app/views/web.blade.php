@@ -24,6 +24,7 @@
     {{HTML::style('resources/components/ResponsiveSlides/responsiveslides.css');}}
     <link rel="stylesheet" type="text/css" href="/resources/css/main.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="icon" type="image/ico" href="/resources/images/shared/favicon.ico"/>
     <script src="https://maps.googleapis.com/maps/api/js"></script>
     
 

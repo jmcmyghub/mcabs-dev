@@ -25,7 +25,7 @@
                 <div class="large-12 columns"><hr>
                   <img src="/resources/images/homeslider/hiring-urgent.jpg" alt="image">
                 </div>
-                <h3>Title of Content</h3>
+                <h3>Benefits</h3>
                 <ul>
                     <li>Nationwide Sourcing, Advertising, Screening, Initial and Final Interview, selection of quality candidates.</li>
                     <li>Skills Trade Testing / Training with complete documents to clients of all workers deployed (Employment Contracts, Copies of Resumes, Medical, Trade Test Results) for client's record.</li>

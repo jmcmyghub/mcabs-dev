@@ -1,10 +1,6 @@
-@section('head-logo')
-  <?php echo View::make('partial.header-logo') ?>
-@endsection
-@section('navibar')
-  <?php echo View::make('partial.navigation-bar') ?>
-@endsection
 @section ('content')
+@include('partial.header-logo')
+@include('partial.navigation-bar')
 <div class="home-page-holder">
   <!-- SLIDER -->
     <div class="small-12 large-12 columns">
@@ -42,7 +38,6 @@
           <div class="large-12 columns">
             <!-- <h4>Aviation</h4> -->
             <img src="/resources/images/homeslider/hiring-urgent.jpg" alt="image">
-            <p>Bacon ipsum dolor sit amet nulla ham qui sint exercitation eiusmod commodo, chuck duis velit. Aute in reprehenderit, dolore aliqua non est magna in labore pig pork biltong. Eiusmod swine spare ribs reprehenderit culpa. Boudin aliqua adipisicing rump corned beef.</p>
           </div>
          </div><hr>
         </div>
